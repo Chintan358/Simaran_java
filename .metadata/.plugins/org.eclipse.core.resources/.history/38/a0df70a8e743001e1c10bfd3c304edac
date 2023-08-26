@@ -1,0 +1,12 @@
+package basic;
+
+public class Sample {
+	public static void main(String[] args) {
+		
+		int marks123$_ = 10;
+		String firstName = "hello";
+		
+		byte b = -128;
+		short s = 32767;
+	}
+}

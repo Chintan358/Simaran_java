@@ -1,0 +1,11 @@
+Variables and Datatypes : 
+********************************
+Variables are containers for storing data values. 
+
+1 ) It should start with a lowercase letter such as id, name.
+2 ) It should not start with the special characters like & (ampersand), $ (dollar), _ (underscore).
+3 ) If the name contains multiple words, start it with the lowercase letter followed by an uppercase
+	 letter such as firstName, lastName.
+4 ) Avoid using one-character variables such as x, y, z.
+
+Rules : 
