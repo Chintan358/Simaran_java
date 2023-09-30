@@ -1,0 +1,22 @@
+package pettern;
+
+public class P3 {
+	public static void main(String[] args) {
+		
+		int lines = 8;
+		int startCount = lines;
+		
+		for(int j=1;j<=lines;j++)
+		{
+			for (int i = 1; i <=startCount; i++) 
+			{
+				System.out.print("*");
+			}
+			System.out.println();
+			startCount--;
+		}
+		
+		
+		
+	}
+}
